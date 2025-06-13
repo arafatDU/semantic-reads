@@ -97,3 +97,4 @@ Desktop.ini
 checkpoints/
 models/
 data/
+*.csv
